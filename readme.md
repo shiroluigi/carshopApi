@@ -26,3 +26,5 @@ __Configuration:__
 |numericFilter|rating,price               |
 
 `numericFilter usage:[rating or price][conditional operator][value]`
+
+## Use the populate.js first to fill database with dummy data, edit products.json to add more data or get a feel for the structure of data

@@ -1,0 +1,194 @@
+[
+    {
+        "name": "speedy turbo",
+        "price": 25,
+        "company": "toyota",
+        "rating": 4
+    },
+    {
+        "name": "eco friendly ride",
+        "price": 18,
+        "company": "honda",
+        "rating": 5
+    },
+    {
+        "name": "compact cruiser",
+        "price": 20,
+        "company": "daihatsu",
+        "rating": 3
+    },
+    {
+        "name": "city explorer",
+        "price": 15,
+        "company": "nissan",
+        "rating": 4
+    },
+    {
+        "name": "all-terrain beast",
+        "price": 32,
+        "company": "suzuki",
+        "rating": 5
+    },
+    {
+        "name": "luxury sedan",
+        "price": 40,
+        "company": "mazda",
+        "rating": 4
+    },
+    {
+        "name": "powerful SUV",
+        "price": 28,
+        "company": "mitsubishi",
+        "rating": 3
+    },
+    {
+        "name": "adventure wagon",
+        "price": 22,
+        "company": "subaru",
+        "rating": 5
+    },
+    {
+        "name": "reliable pickup",
+        "price": 30,
+        "company": "isuzu",
+        "rating": 4
+    },
+    {
+        "name": "heavy-duty hauler",
+        "price": 35,
+        "company": "hino",
+        "rating": 3
+    },
+    {
+        "name": "sporty motorcycle",
+        "price": 12,
+        "company": "kawasaki",
+        "rating": 5
+    },
+    {
+        "name": "fast cruiser",
+        "price": 14,
+        "company": "yamaha",
+        "rating": 4
+    },
+    {
+        "name": "retro classic",
+        "price": 21,
+        "company": "mitsuoka",
+        "rating": 2
+    },
+    {
+        "name": "urban commuter",
+        "price": 19,
+        "company": "toyota",
+        "rating": 4
+    },
+    {
+        "name": "family minivan",
+        "price": 27,
+        "company": "honda",
+        "rating": 5
+    },
+    {
+        "name": "efficient hatchback",
+        "price": 17,
+        "company": "nissan",
+        "rating": 3
+    },
+    {
+        "name": "rugged off-roader",
+        "price": 33,
+        "company": "suzuki",
+        "rating": 4
+    },
+    {
+        "name": "sleek coupe",
+        "price": 26,
+        "company": "mazda",
+        "rating": 5
+    },
+    {
+        "name": "compact SUV",
+        "price": 23,
+        "company": "subaru",
+        "rating": 4
+    },
+    {
+        "name": "efficient delivery",
+        "price": 24,
+        "company": "isuzu",
+        "rating": 3
+    },
+    {
+        "name": "lightweight truck",
+        "price": 29,
+        "company": "hino",
+        "rating": 2
+    },
+    {
+        "name": "super sport bike",
+        "price": 15,
+        "company": "kawasaki",
+        "rating": 5
+    },
+    {
+        "name": "premium crossover",
+        "price": 31,
+        "company": "honda",
+        "rating": 4
+    },
+    {
+        "name": "family SUV",
+        "price": 37,
+        "company": "toyota",
+        "rating": 5
+    },
+    {
+        "name": "city electric",
+        "price": 30,
+        "company": "nissan",
+        "rating": 4
+    },
+    {
+        "name": "sport utility",
+        "price": 39,
+        "company": "suzuki",
+        "rating": 5
+    },
+    {
+        "name": "vintage ride",
+        "price": 38,
+        "company": "mitsuoka",
+        "rating": 3
+    },
+    {
+        "name": "compact family car",
+        "price": 20,
+        "company": "mazda",
+        "rating": 4
+    },
+    {
+        "name": "off-road warrior",
+        "price": 34,
+        "company": "subaru",
+        "rating": 5
+    },
+    {
+        "name": "quick delivery van",
+        "price": 26,
+        "company": "isuzu",
+        "rating": 3
+    },
+    {
+        "name": "utility truck",
+        "price": 28,
+        "company": "hino",
+        "rating": 2
+    },
+    {
+        "name": "sleek electric",
+        "price": 44,
+        "company": "toyota",
+        "rating": 5
+    }
+]

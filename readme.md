@@ -10,7 +10,7 @@
 
 __Configuration:__
 
-- make .env in the root folder and type:  `MONGO_URI ="<your mongodb uri>`
+- make .env in the root folder and type:  `MONGO_URI ="<your mongodb uri>"`
 - (optional) PORT in .env
 - with all these set should be good to go :>
 
